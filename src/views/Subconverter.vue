@@ -256,7 +256,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "suc.shuiniu.cf (自动编译最新版本后端-测试）": "https://suc.shuiniu.cf/sub?",
+          "suc.shuiniu.cf (自动编译最新版本后端-稳定）": "https://suc.shuiniu.cf/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
